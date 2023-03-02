@@ -1,17 +1,13 @@
 ## Table of contents
 
 - Requirements
-- Recommended modules
-- Installation
-- Configuration
-
-  Element Locators
-  
-  Test Data 
-  
-  Logs
-  
-  Execution Process
+Recommended modules
+Installation
+Configuration
+Element Locators
+Test Data 
+Logs
+Execution Process
   
 
 
