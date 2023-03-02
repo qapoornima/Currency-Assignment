@@ -4,9 +4,13 @@
 - Recommended modules
 - Installation
 - Configuration
+
   Element Locators
+  
   Test Data 
+  
   Logs
+  
   Execution Process
   
 
