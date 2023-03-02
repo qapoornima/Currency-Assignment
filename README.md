@@ -46,7 +46,9 @@ All locators will be written on src/test/java/pages/CoinPageLocators class for U
 ## Test Data 
 
 All Test data are keep in src/test/resources/property/TestDataProperties file
+
 Common Methods are in src/test/java/utils/Base class 
+
 One Common method is in src/test/java/utils/CurrencyConversion class for API related scenario only
 
 ## Logs
