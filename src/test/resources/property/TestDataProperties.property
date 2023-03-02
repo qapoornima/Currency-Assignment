@@ -1,7 +1,7 @@
 ChromeDriver= src\\test\\resources\\chromedriver.exe
 ApplicationURL= https://coinmarketcap.com/
 FirstPriceTextValue= 100
-SecondPriceTextValue= 10000000
+SecondPriceTextValue= 10000
 Log4jConfigure=src\\test\\resources\\log4j.xml
 GetAmount= 10000000
 CurrentCurrencySymbol=GTQ

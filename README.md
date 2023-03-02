@@ -5,7 +5,8 @@
 - Installation
 - Configuration
   Element Locators
-  Object Repository
+  Test Data 
+  Logs
   Execution Process
   
 

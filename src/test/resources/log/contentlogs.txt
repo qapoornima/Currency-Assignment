@@ -1,0 +1,44 @@
+ [INFO ] Logs for UI Filter scenario has started :  
+ [INFO ] Number of available names are:20 
+ [INFO ] Available names are :Bitcoin 
+ [INFO ] Available names are :Ethereum 
+ [INFO ] Available names are :Tether 
+ [INFO ] Available names are :BNB 
+ [INFO ] Available names are :USD Coin 
+ [INFO ] Available names are :XRP 
+ [INFO ] Available names are :Cardano 
+ [INFO ] Available names are :Dogecoin 
+ [INFO ] Available names are :Polygon 
+ [INFO ] Available names are :Binance USD 
+ [INFO ] Available names are :Solana 
+ [INFO ] Available names are :Polkadot 
+ [INFO ] Available names are :Litecoin 
+ [INFO ] Available names are :Shiba Inu 
+ [INFO ] Available names are :TRON 
+ [INFO ] Available names are :Avalanche 
+ [INFO ] Available names are :Dai 
+ [INFO ] Available names are :Uniswap 
+ [INFO ] Available names are :Chainlink 
+ [INFO ] Available names are :Wrapped Bitcoin 
+ [INFO ] Number of available prices are:11 
+ [INFO ] Available prices are :$23,443.00 
+ [INFO ] Available prices are :$1,645.45 
+ [INFO ] Available prices are :$1.00 
+ [INFO ] Available prices are :$298.93 
+ [INFO ] Available prices are :$1.00 
+ [INFO ] Available prices are :$1.21 
+ [INFO ] Available prices are :$1.00 
+ [INFO ] Available prices are :$22.05 
+ [INFO ] Available prices are :$6.39 
+ [INFO ] Available prices are :$0.000012 
+ [INFO ] Available prices are :$6.74 
+ [INFO ] Number of Filter names are:3 
+ [INFO ] Bitcoinis not available from the filtered rows 
+ [INFO ] Monerois not available from the filtered rows 
+ [INFO ] Bitcoin Cashis not available from the filtered rows 
+ [INFO ] Logs for UI Filter has ended here 
+ [INFO ] Logs for API Currency conversion scenario has started :  
+ [INFO ] First Conversion from GTQ to GBP is  1065324.0  
+ [INFO ] Final Conversion from GBP to doge coin is 1.5803626E7 
+ [INFO ]  Response code is 200 
+ [INFO ] Logs for API Currency conversion scenario has ended here :  
